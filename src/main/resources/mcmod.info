@@ -1,0 +1,16 @@
+[
+{
+  "modid": "luminousmagic",
+  "name": "Luminous Magic",
+  "description": "Magic based mod inspired by Thaumcraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eragon_Skill"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
