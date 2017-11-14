@@ -22,7 +22,7 @@ public class BaseModBlock extends Block implements IModelRegister{
     @Override
     public void registerModels(){
         if(Item.getItemFromBlock(this) != Items.AIR){
-            
+            //lul
         }
     }
 
